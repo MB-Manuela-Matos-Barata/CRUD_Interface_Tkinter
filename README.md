@@ -24,7 +24,7 @@ crud_livros/
 ## ▶️ Como executar
 1. Clona o repositório:
 ```bash
-git clone https://github.com/MB-Manuela-Matos-Barata/CRUD_Interface_Tkinter
+git clone https://github.com/MB-Manuela-Matos-Barata/CRUD_Interface_Tkinter.git
 ```
 2. Entra na pasta:
 ```bash
